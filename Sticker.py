@@ -9,8 +9,8 @@ import os, glob
 reload(sys)
 sys.setdefaultencoding("utf-8")
 
-admin = 201704410
-token = "TOKEN"
+admin = 306738563
+token = "388339169:AAGUF6qfNtiLzXO_VCYn7PeDCGC7nyYfvXI"
 bot = telebot.TeleBot(token)
 
 @bot.message_handler(commands=['start', 'help'])
